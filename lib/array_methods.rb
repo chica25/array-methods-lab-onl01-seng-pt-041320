@@ -20,4 +20,44 @@ end
 
 def using_size(array)
   array.size
+  #array.length
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
